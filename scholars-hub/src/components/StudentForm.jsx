@@ -62,7 +62,7 @@ const StudentForm = ({ studentId, onSuccess }) => {
         placeholder="Enter your email"
         required
       />
-      <button type="submit">{studentId ? 'Update' : 'Add'}</button>
+      <button type="submit" id="submit-button">{studentId ? 'Update' : 'Add'}</button>
     </form>
   );
 };
