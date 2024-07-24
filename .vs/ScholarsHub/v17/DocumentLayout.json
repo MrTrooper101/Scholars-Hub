@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\handlers\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\handlers\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\handlers\\getstudentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\handlers\\getstudentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\handlers\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\handlers\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\handlers\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\handlers\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\handlers\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\handlers\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\queries\\getstudentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\queries\\getstudentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\queries\\getallstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\queries\\getallstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\commands\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\commands\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\commands\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\commands\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|c:\\users\\corion\\source\\repos\\scholarshub\\scholarshub\\commands\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9474085-879E-4194-B1BA-B049C614B18F}|ScholarsHub\\ScholarsHub.csproj|solutionrelative:scholarshub\\commands\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ScholarsHub\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwFoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:42:07.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Models\\Student.cs",
+              "RelativeToolTip": "ScholarsHub\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:46:32.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Handlers\\DeleteStudentHandler.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Handlers\\DeleteStudentHandler.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Handlers\\DeleteStudentHandler.cs",
+              "RelativeToolTip": "ScholarsHub\\Handlers\\DeleteStudentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:45:03.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Program.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Program.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Program.cs",
+              "RelativeToolTip": "ScholarsHub\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvzAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:48:12.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ScholarsHub\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:43:13.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetStudentByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Handlers\\GetStudentByIdHandler.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Handlers\\GetStudentByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Handlers\\GetStudentByIdHandler.cs",
+              "RelativeToolTip": "ScholarsHub\\Handlers\\GetStudentByIdHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvw8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:45:46.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllStudentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Handlers\\GetAllStudentsHandler.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Handlers\\GetAllStudentsHandler.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Handlers\\GetAllStudentsHandler.cs",
+              "RelativeToolTip": "ScholarsHub\\Handlers\\GetAllStudentsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:45:26.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Handlers\\UpdateStudentHandler.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Handlers\\UpdateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Handlers\\UpdateStudentHandler.cs",
+              "RelativeToolTip": "ScholarsHub\\Handlers\\UpdateStudentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:46:05.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\.gitignore",
+              "RelativeDocumentMoniker": "ScholarsHub\\.gitignore",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\.gitignore",
+              "RelativeToolTip": "ScholarsHub\\.gitignore",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-23T05:08:43.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Handlers\\CreateStudentHandler.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Handlers\\CreateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Handlers\\CreateStudentHandler.cs",
+              "RelativeToolTip": "ScholarsHub\\Handlers\\CreateStudentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:44:33.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetStudentByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Queries\\GetStudentByIdQuery.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Queries\\GetStudentByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Queries\\GetStudentByIdQuery.cs",
+              "RelativeToolTip": "ScholarsHub\\Queries\\GetStudentByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:47:16.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllStudentsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Queries\\GetAllStudentsQuery.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Queries\\GetAllStudentsQuery.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Queries\\GetAllStudentsQuery.cs",
+              "RelativeToolTip": "ScholarsHub\\Queries\\GetAllStudentsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:46:53.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\appsettings.json",
+              "RelativeDocumentMoniker": "ScholarsHub\\appsettings.json",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\appsettings.json",
+              "RelativeToolTip": "ScholarsHub\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T04:47:50.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Commands\\UpdateStudentCommand.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Commands\\UpdateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Commands\\UpdateStudentCommand.cs",
+              "RelativeToolTip": "ScholarsHub\\Commands\\UpdateStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:41:34.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Commands\\DeleteStudentCommand.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Commands\\DeleteStudentCommand.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Commands\\DeleteStudentCommand.cs",
+              "RelativeToolTip": "ScholarsHub\\Commands\\DeleteStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:41:05.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Commands\\CreateStudentCommand.cs",
+              "RelativeDocumentMoniker": "ScholarsHub\\Commands\\CreateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\Corion\\source\\repos\\ScholarsHub\\ScholarsHub\\Commands\\CreateStudentCommand.cs",
+              "RelativeToolTip": "ScholarsHub\\Commands\\CreateStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:40:33.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
